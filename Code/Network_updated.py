@@ -152,3 +152,13 @@ def sigmoid(z):
 def sigmoid_prime(z):
     """Derivative of the sigmoid function."""
     return sigmoid(z)*(1-sigmoid(z))
+
+'''It is just spacfing how many neurons we want to put into every  hidden layers here
+ 1. input layer -> 784 inputs becaause(28 X 28)
+ 2. hidden_layer 1 ->64
+ 3. hidden_layer 2 ->32
+ 4. hidden_layer 3 ->16
+ 5.Output_layer ->10(because we want to classify numbers  in between (0-9)=10 number
+ ''' 
+net =Network([784, 64, 32, 16, 10])
+
