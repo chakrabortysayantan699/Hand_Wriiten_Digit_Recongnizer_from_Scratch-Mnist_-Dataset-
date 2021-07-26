@@ -7,8 +7,24 @@
    handwritten digits that we used for our training and another 1000 Datasets for our test.
  
  ## 2. Process :-
-   **Step_1 :-**  First we have to import our data(downloaded from the given link) and then divide the datasets in two parts for
-                    training and testing our model.
+   **Step_1 :-**  First we have to import our data(downloaded from the given link) and then divide the datasets in two parts for training and testing our model.
+   
+   **Step_2 :-** Secondly,we have initialized some variables those will consists number of hidden layer, epochs,    batch_size,numbers of neurons in hidden layers.
+   
+   **Step_3 :-**: then we have done the main component of Neural network
+   
+   - Activation Function
+   - Foreword pass
+   - BackWard pass
+   - Compute Accuracy
+   - Updationg of weights
+   - Training of model
+
  
      
-**in_progress**
+
+|  Status                    |
+|----------------------------|
+|                            |
+| in Progress                |
+|                            |
