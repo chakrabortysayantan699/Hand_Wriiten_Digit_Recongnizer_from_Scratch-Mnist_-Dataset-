@@ -64,8 +64,18 @@
     
     i) If ``test_data`` is provided then the Network will be evaluated against the test data after each epoch,and partial progress printed out. This is useful for tracking
         progress, but slows things down  substantially
-
-     
+        
+        
+ 
+ ## Result :   
+ 
+ - Splitted Dataset :
+  
+  | No. of Training Samples  |  50000         |
+  |--------------------------|----------------|
+  |No. of cross VAl Samples  |  10000         |
+  |                          |                |
+  |No. of Testing Samples    |  10000         |
      
      
  
