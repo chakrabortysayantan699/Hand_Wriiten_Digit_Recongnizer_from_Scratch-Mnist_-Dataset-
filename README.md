@@ -78,7 +78,19 @@
   |No. of Testing Samples    |  10000         |
      
      
- 
+- Training and Testing result after per epoch : 
+
+  | Results                    |    Results                 |
+  |----------------------------|----------------------------|
+  |Epoch 0: 7512 / 10000       |Epoch 6: 9306 / 10000       |
+  |Epoch 1: 8158 / 10000       |Epoch 7: 9332 / 10000       |
+  |Epoch 3: 9020 / 10000       |Epoch 8: 9374 / 10000       |
+  |Epoch 4: 9221 / 10000       |Epoch 9: 9359 / 10000       |
+  |Epoch 5: 9238 / 10000       |Epoch 10: 9386 / 10000      |
+  
+  **The resul  accuracy will increase as per the number of eopchs will increase**
+  
+  
      
 
 |  Status                    |
