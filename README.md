@@ -107,7 +107,21 @@
 - Confusion Matrix: **Heatmap**
 
  <img src="Plot/heat_map_NN.png" width=400> 
+ 
+ 
+ 
      
+## Reference 
+1.https://github.com/mnielsen/neural-networks-and-deeplearning.
+
+2.https://github.com/casperbh96/Neural-Network-From-Scratch
+
+3.https://towardsdatascience.com/how-does-back-propagation-in-artificial-neural-networks-work-c7cad873ea7
+
+4.https://towardsdatascience.com/stochastic-gradient-descent-clearly-explained-53d239905d31
+
+5.https://en.wikipedia.org/wiki/MNIST_database
+
 
 
       
@@ -117,8 +131,4 @@
   
      
 
-|  Status                    |
-|----------------------------|
-|                            |
-| in Progress                |
-|                            |
+
