@@ -104,8 +104,9 @@
   | 0.93531828    | 0.90386521       | 0.92113246       | 0.94507772      |0.92817117    | 0.92401216    |
   
   
-  
-  
+- Confusion Matrix: **Heatmap**
+
+ <img src="Plot/heat_map_NN.png" width=400> 
      
 
 
