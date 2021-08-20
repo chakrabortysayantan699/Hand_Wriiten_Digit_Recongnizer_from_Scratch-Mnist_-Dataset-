@@ -26,6 +26,7 @@ def load_data():
     helpful to modify the format of the ``training_data`` a little.
     That's done in the wrapper function ``load_data_wrapper()``, see
     below.
+    you can get the in web also
     """
     f = gzip.open('./Data/mnist.pkl.gz', 'rb')
     if sys.version_info < (3,):
