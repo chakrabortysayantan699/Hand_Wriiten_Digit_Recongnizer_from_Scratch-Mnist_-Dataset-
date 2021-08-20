@@ -144,7 +144,7 @@ class DeepNeuralNetwork():
 
             θ = θ - η * ∇J(x, y), 
                 theta θ:            a network parameter (e.g. a weight w)
-                eta η:              the learning rate
+                eta(learning rate) η:              the learning rate
                 gradient ∇J(x, y):  the gradient of the objective function,
                                     i.e. the change for a specific theta θ
         '''
