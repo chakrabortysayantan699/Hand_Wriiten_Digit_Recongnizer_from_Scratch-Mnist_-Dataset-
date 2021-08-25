@@ -1,4 +1,4 @@
-# Hand_Wriiten_Digit_Recongnizer_from_Scratch-Mnist_-Dataset-
+# Hand_Wriiten ✍🏽  Digit_Recongnizer_from_Scratch-Mnist_-Dataset-
 
 **Methodology**
 
@@ -67,7 +67,7 @@
         
         
  
- ## Result :   
+ ## Result 📖:   
  
  - Splitted Dataset :
   
@@ -111,7 +111,7 @@
  
  
      
-## Reference 
+## Reference 🚀
 1.https://github.com/mnielsen/neural-networks-and-deeplearning.
 
 2.https://github.com/casperbh96/Neural-Network-From-Scratch
