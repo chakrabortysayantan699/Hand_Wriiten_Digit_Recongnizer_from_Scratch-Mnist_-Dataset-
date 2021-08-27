@@ -1,4 +1,4 @@
-# Hand_Wriiten ✍🏽  Digit_Recongnizer_from_Scratch-Mnist_-Dataset-
+# Hand_Wriiten ✍🏽  Digit Recongnizer from Scratch Mnist Dataset📚
 
 **Methodology**
 
